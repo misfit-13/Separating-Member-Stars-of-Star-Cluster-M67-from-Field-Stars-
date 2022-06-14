@@ -1,0 +1,2 @@
+# Separating-Member-Stars-of-Star-Cluster-M67-from-Field-Stars-
+I used the unsupervised learning method "Gaussian Mixture Model" followed by various supervised learning methods like Logistic Regression, Support Vector Machine, Decision Trees, Random Forest and Artificial Neural Network for the classification. This was followed by using a multitude of metrics like Accuracy, f1 score, precision and recall curve and score, AUC for ROC curve, etc to understand the performance of the different models.
